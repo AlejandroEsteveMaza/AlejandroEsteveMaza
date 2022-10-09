@@ -1,11 +1,6 @@
+<h1 align="center">Hi! 👋 I'm Alejandro Esteve Maza</h1>
 
-<p align="center">
-
-#### Hi! I'm Alejandro Esteve Maza 🙇‍
-
-</p>
-
-I'm a Fullstack Web Developer with a lot of way ahead in my Software developing journey. This is my personal Github, where I like to try some stuff out.
+I'm a Fullstack Web Developer with a lot of way ahead in my Software developing journey. This is my personal Github, where I like to try some coding stuff out.
 
 <!--
 **AlejandroEsteveMaza/AlejandroEsteveMaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
