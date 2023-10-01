@@ -10,6 +10,7 @@ I'm a Fullstack Web Developer with a lot of way ahead in my Software developing 
   - Tech: React, CSS
   - [Repository](https://github.com/AlejandroEsteveMaza/Portfolio)
 
+
 <h2>Technologies 🛠️</h2>
 
 - <b>Programming Languages:</b> Java, Javascript/Typescript, HTML, CSS
@@ -18,7 +19,8 @@ I'm a Fullstack Web Developer with a lot of way ahead in my Software developing 
 - <b>Databases:</b> MySQL, PostgrSQL, SQL Server
 
 <h2>Contact 📬</h2>
-Connect with me on [Repository](https://github.com/AlejandroEsteveMaza/Portfolio) or by email at alex.esteve98@gmail.com
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-esteve-maza) or by email at alex.esteve98@gmail.com
 
 <!--
 **AlejandroEsteveMaza/AlejandroEsteveMaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
