@@ -1,5 +1,5 @@
-<h1 align="center">Hi! 👋 I'm Alejandro Esteve Maza</h1>
-
+<h1 align="center">Hi! 👋 I'm <a href="https://www.linkedin.com/in/alejandro-esteve-maza">Alejandro<a/> </br> <b>Full Stack Developer</b></h1>
+<h2>About Me 🚀</h2>
 I'm a Fullstack Web Developer with a lot of way ahead in my Software developing journey. This is my personal Github, where I like to try some coding stuff out.
 
 <!--
